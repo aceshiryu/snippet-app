@@ -1,1 +1,1 @@
-# snippet-app
+# Snippet
